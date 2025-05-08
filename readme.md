@@ -5,7 +5,7 @@ Today we will learn two important things in TypeScript. Don’t worry, I will ex
 
 ---
 
-##  1. Interface vs Type – What’s the Difference?
+##  1. What are some differences between interfaces and types in TypeScript?
 
 In TypeScript, we use **interface** and **type** to say how an object should look.
 
@@ -49,7 +49,7 @@ Easy to use in classes	More flexible for advanced uses
 - Use interface if you are just making an object.
 - Use type if you need to mix things or do something extra.
 
-## 2. What is keyof in TypeScript?
+## 2. What is the use of the keyof keyword in TypeScript? Provide an example.
 Let’s say we have a student object:
 
 ts
