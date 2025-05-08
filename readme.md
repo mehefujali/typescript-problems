@@ -49,7 +49,7 @@ Easy to use in classes	More flexible for advanced uses
 - Use interface if you are just making an object.
 - Use type if you need to mix things or do something extra.
 
-🗝️ 2. What is keyof in TypeScript?
+## 2. What is keyof in TypeScript?
 Let’s say we have a student object:
 
 ts
