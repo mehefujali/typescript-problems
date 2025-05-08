@@ -13,7 +13,7 @@ Let’s see with example:
 
 ###  Interface Example:
 
-```ts
+
 interface Person {
   name: string;
   age: number;
